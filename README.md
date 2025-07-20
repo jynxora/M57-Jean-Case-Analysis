@@ -45,13 +45,13 @@ You’ll find not only the technical findings, but also the **thought process**,
 Read the Write-up
 
 1. 🔍 **Read the full report (PDF) in-browser**  
-   [View on GitHub](./report/M57_Jean_Case_Analysis.pdf)
+   [Read PDF Report](M57-Jean_Autopsy_Case_Analysis.pdf)
 
 2. 📝 **Read the full report (Markdown) in-browser**  
-   [Explore `/notes/missed_areas.md`](./notes/missed_areas.md)
+   [Read .Markdown Report](./Markdown%20Report/M57-Jean_Autopsy_Case_Analysis.md)
 
 3. ⬇️ **Download the full PDF directly**  
-   [Click to Download](https://raw.githubusercontent.com/yourusername/M57-Jean-Case-Analysis/main/report/M57_Jean_Case_Analysis.pdf)
+   [Download PDF Report](https://github.com/jynxora/M57-Jean-Case-Analysis/raw/main/M57-Jean_Autopsy_Case_Analysis.pdf)
 
 ---
 
