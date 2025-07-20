@@ -8,7 +8,7 @@
 
 ## 📌 About the Case
 
-The **M57 Jean Case** is a fictional but realistic forensic challenge created by **NIST** to simulate an insider threat scenario. A confidential spreadsheet containing salary and identity data was leaked from the laptop of Jean — a senior executive at M57.Biz.  
+The **M57 Jean Case** is a fictional but realistic forensic challenge created by **NIST** [National Institute of Standards and Technology] to simulate an insider threat scenario. A confidential spreadsheet containing salary and identity data was leaked from the laptop of Jean — a senior executive at M57.Biz.  
 
 Jean denies any wrongdoing, claiming her system must’ve been compromised. As forensic analysts, our goal is to determine whether Jean is telling the truth — or if something more malicious happened under the hood.
 
