@@ -48,7 +48,7 @@ Read the Write-up
    [Read PDF Report](M57-Jean_Autopsy_Case_Analysis.pdf)
 
 2. 📝 **Read the full report (Markdown) in-browser**  
-   [Read .Markdown Report](./Markdown%20Report/M57-Jean_Autopsy_Case_Analysis.md)
+   [Read .Markdown Report](https://github.com/jynxora/M57-Jean-Case-Analysis/blob/main/Markdown%20Report/M57-Jean-Autopsy_Case_Analysis.md)
 
 3. ⬇️ **Download the full PDF directly**  
    [Download PDF Report](https://github.com/jynxora/M57-Jean-Case-Analysis/raw/main/M57-Jean_Autopsy_Case_Analysis.pdf)
