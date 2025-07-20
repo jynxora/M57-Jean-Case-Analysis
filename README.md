@@ -45,13 +45,13 @@ You’ll find not only the technical findings, but also the **thought process**,
 Read the Write-up
 
 1. 🔍 **Read the full report (PDF) in-browser**  
-   👉 [View on GitHub](./report/M57_Jean_Case_Analysis.pdf)
+   [View on GitHub](./report/M57_Jean_Case_Analysis.pdf)
 
 2. 📝 **Read the full report (Markdown) in-browser**  
-   👉 [Explore `/notes/missed_areas.md`](./notes/missed_areas.md)
+   [Explore `/notes/missed_areas.md`](./notes/missed_areas.md)
 
-3. 📥 **Download the full PDF directly**  
-   👉 [Click to Download](https://raw.githubusercontent.com/yourusername/M57-Jean-Case-Analysis/main/report/M57_Jean_Case_Analysis.pdf)
+3. ⬇️ **Download the full PDF directly**  
+   [Click to Download](https://raw.githubusercontent.com/yourusername/M57-Jean-Case-Analysis/main/report/M57_Jean_Case_Analysis.pdf)
 
 ---
 
@@ -64,7 +64,7 @@ Read the Write-up
 
 ---
 
-## 🤝 Contribute or Fork
+## Contribute or Fork
 
 If you’re analyzing the M57 dataset yourself:
 - Fork this repo and expand the timeline
@@ -73,7 +73,7 @@ If you’re analyzing the M57 dataset yourself:
 
 ---
 
-## 📢 Author Info
+## Author Info
 
 **Jinay Shah** (aka `Jynx`)  
 🔗 [LinkedIn](https://linkedin.com/in/jynxora) · [X](https://x.com/JynxZero) · [Medium](https://medium.com/@jynxora)
