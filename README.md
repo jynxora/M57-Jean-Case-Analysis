@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About the Case
+## About the Case
 
 The **M57 Jean Case** is a fictional but realistic forensic challenge created by **NIST** [National Institute of Standards and Technology] to simulate an insider threat scenario. A confidential spreadsheet containing salary and identity data was leaked from the laptop of Jean — a senior executive at M57.Biz.  
 
@@ -14,7 +14,7 @@ Jean denies any wrongdoing, claiming her system must’ve been compromised. As f
 
 ---
 
-## 🎯 What This Repository Achieves
+## What This Repository Achieves
 
 This repo contains a **complete, self-driven digital forensic analysis** of Jean's system using the Autopsy toolset.  
 You'll walk through:
@@ -29,14 +29,14 @@ This investigation emphasizes **evidence interpretation**, **timeline building**
 
 ---
 
-## 🧠 Who This Is For
+## Who This Is For
 
 This repo is built for:
 
-✅ **DFIR learners and students**  
-✅ **Cybersecurity enthusiasts and CTF players**  
-✅ **Autopsy users seeking real-case practice**  
-✅ **Anyone exploring Windows XP era forensic artifacts**  
+- **DFIR learners and students**  
+- **Cybersecurity enthusiasts and CTF players**  
+- **Autopsy users seeking real-case practice**  
+- **Anyone exploring Windows XP era forensic artifacts**  
 
 You’ll find not only the technical findings, but also the **thought process**, **pitfalls**, and **honest reflection** on what I missed.
 
@@ -47,7 +47,7 @@ Read the Write-up
 1. 🔍 **Read the full report (PDF) in-browser**  
    👉 [View on GitHub](./report/M57_Jean_Case_Analysis.pdf)
 
-2. 📝 **Read as Markdown summary**  
+2. 📝 **Read the full report (Markdown) in-browser**  
    👉 [Explore `/notes/missed_areas.md`](./notes/missed_areas.md)
 
 3. 📥 **Download the full PDF directly**  
