@@ -2,7 +2,7 @@
 
 > **Case Type**: Insider Threat · Browser Exploits · Remote Access Abuse · Anti-Forensics  
 > **Skill Level**: Beginner-to-Intermediate (DFIR)  
-> **Investigation Time**: ~Day 20 of DFIR Learning Journey
+> **Investigation Time**: 36-37 Hours
 
 ---
 
